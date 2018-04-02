@@ -1,5 +1,5 @@
 ### lsd
-`lsd` will enable your `ls` to become colorful.
+`lsd` is a psychedelic version of `ls`. `lsd` will enable your `ls` to become colorful.
 
 Follow the `command` below to make it happen.
 
